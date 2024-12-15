@@ -1,6 +1,6 @@
-import {issue_file_197} from "./ixports";
+import {issue_1} from "./ixports";
 
 
 
-// execution block
-issue_file_197()
+// execution block via. <>npm start</>
+issue_1([2, 7, 11, 15], 22)

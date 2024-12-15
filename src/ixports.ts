@@ -1,4 +1,5 @@
 
 
 
-export {default as issue_file_197} from "./issue_197/issue-file-197"
+export {default as issue_1} from "./easy-issues/issue_1"
+
